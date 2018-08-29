@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/kafka2ssc2hbase/kafka2ssc2hbase.iml" filepath="$PROJECT_DIR$/kafka2ssc2hbase/kafka2ssc2hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/kafka2ssc2hive/kafka2ssc2hive.iml" filepath="$PROJECT_DIR$/kafka2ssc2hive/kafka2ssc2hive.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/sparkstreaming.iml" filepath="$PROJECT_DIR$/.idea/sparkstreaming.iml" />
     </modules>
